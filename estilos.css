@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: blue;
+  text-align: center;
+  text-shadow: 5px 5px 8px #7db62d;
+}
+p {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 20px;
+  text-align: right;
+  color: bisque;
+}
+.uno > b {
+  font-style: italic;
+  color: #1de72a;
+  font-size: 2em;
+}
+.dos {
+  color: rgb(239, 146, 7);
+  font-size: 15px;
+  text-align: center;
+}
