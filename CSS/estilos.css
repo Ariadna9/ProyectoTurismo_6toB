@@ -2,35 +2,52 @@
   margin: 0;
   padding: 0;
 }
-
-.contenedor {
-  background-color: #36e6e3;
+header{
+  background-color: rgb(0, 0, 0);
 }
-h1 {
-  font-family: Georgia, "Times New Roman", Times, serif;
-  text-align: center;
-}
-h1 > span {
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+nav .opc{
+  font-family: 'Times New Roman', Times, serif;
   font-size: 1em;
+  color:rgb(255, 255, 255);
   font-style: italic;
-  text-shadow: 2.5px 2.5px 0.5px #c7b4ec;
 }
-.cols {
-  background-color: #6092e9;
+h1,h2, h3 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  
 }
-.dos {
-  background-color: blue;
-  margin-left: 0px;
+p {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 20px;
+  text-align: justify;
+  color:rgb(255, 255, 255);
+}
+article{
+  text-decoration: rgb(255, 255, 255);
+}
+.uno {
+  font-style: italic;
+  text-decoration-color: blanchedalmond;
+  color: #84f7ed;
+  font-size: 15px;
+  text-align: center;
+  background-color: rgb(0, 0, 0);
 }
 
-h2 {
-  text-align: end;
+.dos {
+  color: #ffffff;
+  font-size: 15px;
+  text-align: center;
+  background-color: rgb(0, 0, 0);
+  
 }
-.btnP {
-  position: relative;
-  top: 5px;
-  left: 225px;
-  box-shadow: 2px 2px 3px #6ac108;
-  text-shadow: 2px 2px 0.2px #a6fb44;
+.tres {
+  color: #ffffff;
+  font-size: 15px;
+  text-align: center;
+  background-color: black;
 }
+
+
+

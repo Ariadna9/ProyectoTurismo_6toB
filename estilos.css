@@ -1,29 +1,51 @@
-* {
+*{
   margin: 0;
   padding: 0;
 }
-
-h1,
-h2,
-h3 {
+header{
+  background-color: rgb(0, 0, 0);
+}
+nav .opc{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1em;
+  color: blue
+}
+h1,h2, h3 {
   font-family: Georgia, "Times New Roman", Times, serif;
   color: blue;
   text-align: center;
-  text-shadow: 5px 5px 8px #7db62d;
+  
 }
 p {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   font-size: 20px;
-  text-align: right;
-  color: bisque;
+  text-align: justify;
+  color: blue
 }
-.uno > b {
-  font-style: italic;
-  color: #1de72a;
-  font-size: 2em;
+article{
+  text-decoration-color: rgb(13, 155, 165);
 }
+.uno {
+color:blue;
+font-size: 15px;
+text-align: center;
+background-color: brown;
+}
+
 .dos {
-  color: rgb(239, 146, 7);
+  color: #ffffff;
   font-size: 15px;
   text-align: center;
+  background-color:black;
+  
 }
+.tres {
+  color: #ffffff;
+  font-size: 15px;
+  text-align: center;
+  background-color: black;
+}
+
+
+
+
